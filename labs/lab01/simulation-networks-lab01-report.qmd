@@ -14,6 +14,7 @@ license: "CC BY"
 Основной целью работы является развёртывание в системе виртуализации
 (например, в VirtualBox) mininet, знакомство с основными командами для работы с Mininet через командную строку и через графический интерфейс.
 
+
 # Выполнение лабораторной работы
 
 Скачаем образ виртуальной машины с репозитория гитхаба.
@@ -159,10 +160,7 @@ netcfg.yaml виртуальной машины mininet:
 Запуск Xserver
 (рис. [-@fig-011]).
 
-![Запуск
-GitHub - mininet/mininet: Emulator for rapid prototyping of Software Defined Networks
-github.com
-Xserver](image/11.png){#fig-006}
+![Запуск Xserver](image/11.png){#fig-006}
 
 Запуск Xserver
 (рис. [-@fig-012]).
@@ -238,6 +236,7 @@ Xserver](image/11.png){#fig-006}
 (рис. [-@fig-023]).
 
 ![Сохранение и загрузка топологии Mininet.](image/23.png){#fig-006}
+
 
 # Выводы
 
